@@ -3,10 +3,11 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "c3d4eaeff6e87b3e64476ead7bed60ea",
-"assets/AssetManifest.bin.json": "353dec207c3e1a078ab842fd99482f6f",
-"assets/AssetManifest.json": "c7413addd8bcab778c04fc214057577e",
+const RESOURCES = {"assets/AssetManifest.bin": "be65fa68755ef5b76c867d58b209e95f",
+"assets/AssetManifest.bin.json": "9fcfa250045ebf837b6b6b12d2b97a3e",
+"assets/AssetManifest.json": "0bcb11e6d1f3160cd6c0455c4545f020",
 "assets/assets/images/michaela.jpg": "f91120809a256ff806847d7e2213a531",
+"assets/assets/images/michaelaIcon.png": "41e34fd472d9fe5a1a2334c297c358dc",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/fonts/MaterialIcons-Regular.otf": "32fce58e2acb9c420eab0fe7b828b761",
 "assets/NOTICES": "a210a21d3303150606ca2520978fbcd9",
@@ -24,14 +25,10 @@ const RESOURCES = {"assets/AssetManifest.bin": "c3d4eaeff6e87b3e64476ead7bed60ea
 "icons/android-chrome-192x192.png": "e8bbe87ed3f6daa566f2a690951a30f9",
 "icons/android-chrome-512x512.png": "a1ad85db9d6b1fa9364fc808dd43c502",
 "icons/apple-touch-icon.png": "3e5df172a10647bf984b551c210da75f",
-"icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
-"icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
-"icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "f0e775e035ab783bbdcbe3297ad9a0a3",
-"/": "f0e775e035ab783bbdcbe3297ad9a0a3",
+"index.html": "0b8c8580ad4e2ecdc328f0cb668a6562",
+"/": "0b8c8580ad4e2ecdc328f0cb668a6562",
 "logo.png": "e8bbe87ed3f6daa566f2a690951a30f9",
-"main.dart.js": "9ef3fa8ae5c2b5907fd4983341d3f104",
+"main.dart.js": "2fb41a8a9a6fdd3c09aa2a356a94835d",
 "manifest.json": "9f55b71832991d4bc7d3e3c0c424ed8c",
 "version.json": "befab68402cb32ac0eca623570ff77fa"};
 // The application shell files that are downloaded before a service worker can
